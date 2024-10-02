@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>To automatically trigger Job 2  after Job 1 completes, you can configure Job 1 to trigger Job 2 as a post-build action. Here's how to set it up .</h1>
+    <h1>To automatically trigger Job 2 after Job 1 completes, you can configure Job 1 to trigger Job 2 as a post-build action. Here's how to set it up .</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
